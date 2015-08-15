@@ -4,7 +4,7 @@ Full Emojis for Pidgin
 ![Imgur](http://i.imgur.com/Co5EKqC.png)
 
 # Install
-- Copy the emojis folder to /home/username/.purple/smileys/
+- Copy the emojis folder to ~/.purple/smileys/
 - Open Pidgin -> Tools -> Preferences -> Themes -> Smiley Theme -> Emojis for Pidgin - Hoang Stark
 
 ![Imgur](http://i.imgur.com/8miEeWn.png)
