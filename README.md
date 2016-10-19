@@ -11,3 +11,5 @@ Full Emojis for Pidgin
 
 # How to use
 http://www.emoji-cheat-sheet.com/
+
+![Emoji Cheatsheet](https://raw.githubusercontent.com/hoangstark/Emojis-for-Pidgin/master/emoji-cheatsheet.png)
